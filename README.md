@@ -22,7 +22,7 @@ To enhance code readability and simplify calculations, I used Common Table Expre
 ### 5. Temporary Table and Views:
 I utilized a temporary table to store aggregated data and created views for easy data retrieval. These views encapsulated key metrics like the percentage of vaccinated population, infected percentage, countries with the highest death counts, and continent-wise death counts. Creating views facilitated faster access to insights.
 
-### Discoveries:
+## Discoveries:
 Throughout the analysis, several compelling discoveries emerged. Notably, certain countries exhibited remarkably high infection rates when compared to their population size. These insights emphasized the need for targeted intervention strategies. Additionally, the vaccination data showcased encouraging progress in immunization efforts, especially in densely populated regions.
 
 #### Below is a breakdown of the discoveries:
@@ -32,6 +32,9 @@ Throughout the analysis, several compelling discoveries emerged. Notably, certai
 * Of all the infected populations, around **0.9%** died.
 * Countries like Cyprus, and San Marino had the highest population infected, with **73%** and **72%** of their population infected respectively.
 * United States has the highest death count with around **1,127,152** deaths.
-* United states, Brazil, India, Russia and Mexico recorded the highest deaths.
+* United States, Brazil, India, Russia, and Mexico recorded the highest number of deaths.
 * Europe had the highest total cases per continent, followed by Asia, North America, and South America.
 * Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
+
+## Conclusion:
+This project exemplifies the power of data analysis in tackling real-world challenges. By combining SQL skills with an understanding of public health data, I gained valuable insights into the COVID-19 pandemic's dynamics. The methodologies employed, from initial data extraction to final insights, demonstrated the iterative and investigative nature of data science. This experience further fuels my aspiration to become a data scientist and contribute to data-driven solutions that make a positive impact on society.
